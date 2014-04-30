@@ -1,0 +1,45 @@
+{
+  "name": "spec-xunit-file",
+  "version": "0.0.1-0",
+  "description": "Mocha reporter which displays Spec output and generates xunit XML file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jshint lib/"
+
+  },
+  "author": {
+    "name": "Joe Cyboski",
+    "email": "cybo42@gmail.com",
+    "url": "http://cybo42.com"
+  },
+  "contributors": [
+    {
+      "name": "Joe Cyboski",
+      "email": "cybo42@gmail.com",
+      "url": "http://cybo42.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/npm/npm.git"
+  },
+  "bugs": {
+    "url": "http://github.com/owner/project/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mocha",
+    "spec",
+    "xunit",
+    "file",
+    "reporter"
+  ],
+  "peerDependencies": {
+    "mocha": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.7.0",
+    "jshint": "^2.5.0"
+  }
+}
