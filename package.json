@@ -22,10 +22,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/npm/npm.git"
+    "url": "https://github.com/cybo42/spec-xunit-file"
   },
   "bugs": {
-    "url": "http://github.com/owner/project/issues"
+    "url": "https://github.com/cybo42/spec-xunit-file/issues"
   },
   "license": "MIT",
   "keywords": [
