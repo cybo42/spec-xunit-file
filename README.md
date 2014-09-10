@@ -9,7 +9,7 @@ Based upon [xunit-file](https://github.com/peerigon/xunit-file) reporter
 
 1. Install `spec-xunit-file`
 ```
-> npm install --save-dev spec-unit-file
+> npm install --save-dev spec-xunit-file
 ```
 
 2. If using mocha cli with use the `-R` or `--reporter` option
