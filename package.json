@@ -1,6 +1,6 @@
 {
   "name": "spec-xunit-file",
-  "version": "0.0.1-0",
+  "version": "0.0.1-2",
   "description": "Mocha reporter which displays Spec output and generates xunit XML file",
   "main": "index.js",
   "scripts": {
