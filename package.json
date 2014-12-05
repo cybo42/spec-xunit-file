@@ -39,7 +39,7 @@
     "mocha": ">=1.7.0"
   },
   "devDependencies": {
-    "mocha": "^1.7.0",
+    "mocha": ">=1.7.0",
     "jshint": "^2.5.0"
   }
 }
